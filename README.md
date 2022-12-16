@@ -7,7 +7,7 @@
   <a href="https://portfolio-f536f.web.app/"><img src="https://img.shields.io/badge/portfolio-%23FF0000?style=flat&logo=Proto.io&logoColor=white"/></a>
   </p>
   
-  <img src="https://github.com/sh/SherifMega/blob/master/profile.png" align="right" width="25%"/>
+  <img src="https://raw.githubusercontent.com/SherifMega/SherifMega/main/profile.webp" align="right" width="25%"/>
 
 Well-qualified Web & Mobile Developer familiar with a wide range of programming utilities and languages. Knowledgeable of backend & frontend & mobile development requirements. Able to handle any part of the process with ease. Collaborative team player with excellent technical abilities.
 
