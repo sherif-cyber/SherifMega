@@ -9,7 +9,7 @@
   
   <img src="https://raw.githubusercontent.com/SherifMega/SherifMega/main/profile.webp" align="right" width="25%"/>
 
-Well-qualified Web & Mobile Developer familiar with a wide range of programming utilities and languages. Knowledgeable of backend & frontend & mobile development requirements. Able to handle any part of the process with ease. Collaborative team player with excellent technical abilities.
+Software Engineer (Web & Mobile Developer) [@Deutsche Telekom](https://www.telekom.de/start) familiar with a wide range of programming utilities and languages. Knowledgeable of backend & frontend & mobile development requirements. Able to handle any part of the process with ease. Collaborative team player with excellent technical abilities.
 
 - 📱 Mobile (React-Native)
 - 💻 FrontEnd (React js - Vue js)
